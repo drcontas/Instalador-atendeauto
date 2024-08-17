@@ -6,7 +6,7 @@ Fazendo download do instalador e executando o instalador: 💾
 sudo apt update && sudo apt upgrade -y
 
 
-sudo apt install -y git && git clone https://github.com/Dropzap/Instalador-atendeauto install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/drcontas/Instalador-atendeauto install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ## Requisitos
 
 | --- | Mínimo | Recomendado |
